@@ -8,6 +8,7 @@ public class Array_3 {
 		Scanner sc = new Scanner (System.in);
 		
 		int maiorNumb,maiorPos;
+		int mar = 0;
 	
 		// recebe quantos numeros serão inseridos no array
 		System.out.print("Quantos numeros: ");
